@@ -1,7 +1,8 @@
 package de.hfu;
 import java.util.Scanner;
 /**
- * Hello world!
+ * Fragt eine ZeichenKette ab.
+ * diese wird dann mit Großbuchstaben ausgegeben.
  *
  */
 public class App 
